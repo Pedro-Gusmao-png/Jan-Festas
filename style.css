@@ -1193,11 +1193,11 @@ footer p{
 
 .section-tag{
 
-    display:inline-block;
+    display:table;
+
+    margin:0 auto 20px;
 
     padding:10px 22px;
-
-    margin-bottom:20px;
 
     border-radius:50px;
 
