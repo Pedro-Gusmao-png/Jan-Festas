@@ -675,9 +675,9 @@ header.scrolled{
 
     width:100%;
 
-    max-width:700px; /* antes era 1100px */
+    max-width:700px;
 
-    height:900px;    /* antes era 650px */
+    height:900px;   
 
     margin:auto;
 
@@ -1143,7 +1143,7 @@ footer p{
 
     .slider{
 
-        height:280px;
+        height:500px;
 
         border-radius:16px;
 
